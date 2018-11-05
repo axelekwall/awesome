@@ -8,9 +8,9 @@
 
 ## Contents
 
-- [Platforms](#fonts)
+* [Platforms](#fonts)
 
 ## Fonts
 
-- **IBM Plex** [website](https://www.ibm.com/plex) - [github](https://github.com/IBM/plex)
-- **Inter UI** [website](https://rsms.me/inter/) - [github](https://github.com/rsms/inter)
+* **IBM Plex** [website](https://www.ibm.com/plex) - [github](https://github.com/IBM/plex)
+* **Inter UI** [website](https://rsms.me/inter/) - [github](https://github.com/rsms/inter)
