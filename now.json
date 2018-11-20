@@ -1,5 +1,6 @@
 {
   "version": 2,
+  "name": "awesome",
   "regions": ["bru"],
   "builds": [
     { "src": "index.html", "use": "@now/static" }
