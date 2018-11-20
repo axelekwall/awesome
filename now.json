@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "regions": ["bru"],
+  "builds": [
+    { "src": "index.html", "use": "@now/static" }
+  ]
+}
